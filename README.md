@@ -1,4 +1,4 @@
-CSV to PDF
+Plot Graph and and store the result in PDF
 It is an application which takes csv file as an input and it will show the graph based on which column we will store.It also shows the description about ML models.
 We can also download the result in .pdf format.
 
